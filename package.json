@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "a general purpose node app framework",
   "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/campbelljs/campbell"
+  },
   "bin": {
     "campbell": "lib/scripts/start.js"
   },
