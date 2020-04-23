@@ -20,7 +20,7 @@
   "author": "Mathis TLD",
   "license": "ISC",
   "dependencies": {
-    "alton": "^0.1.1",
+    "alton": "^0.1.2",
     "connectr": "git+https://github.com/MathisTLD/connectr.git#dusting",
     "decache": "^4.5.1",
     "dotenv": "^8.2.0",
