@@ -8,7 +8,7 @@
     "url": "https://github.com/campbelljs/campbell"
   },
   "bin": {
-    "campbell": "lib/scripts/start.js"
+    "campbell": "lib/cli/index.js"
   },
   "directories": {
     "lib": "lib"
