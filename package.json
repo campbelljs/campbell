@@ -1,6 +1,6 @@
 {
   "name": "campbell",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "a general purpose node app framework",
   "main": "lib/index.js",
   "repository": {
