@@ -14,7 +14,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "postversion": "npm publish && git push && git push --tags",
+    "postversion": "npm publish && git push --tags",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mathis TLD",
