@@ -27,4 +27,3 @@ my-app
 This is the main directory of your project :
 
 - router.js files can create routers for the [**express**]("https://expressjs.com/") server embedded in the **instance**
-- socket.js does the same as router but with [**socket.io**]("https://socket.io/") namespaces
