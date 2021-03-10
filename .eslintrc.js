@@ -1,9 +1,12 @@
 module.exports = {
   env: {
+    commonjs: true,
+    es2021: true,
     node: true,
-    es6: true,
   },
-  parser: "babel-eslint",
-  extends: ["eslint:recommended"],
-  plugins: [],
+  extends: "eslint:recommended",
+  parserOptions: {
+    ecmaVersion: 12,
+  },
+  rules: {},
 };

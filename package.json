@@ -11,6 +11,7 @@
     "lib": "lib"
   },
   "scripts": {
+    "preversion": "npm run test",
     "postversion": "npm publish --tag beta && git push --follow-tags",
     "test": "npm run lint",
     "lint": "eslint lib/**"
@@ -23,7 +24,6 @@
     "winston": "^3.3.3"
   },
   "devDependencies": {
-    "babel-eslint": "^10.1.0",
     "eslint": "^7.21.0"
   }
 }
