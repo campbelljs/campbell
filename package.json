@@ -19,7 +19,7 @@
   "author": "MathisTLD",
   "license": "ISC",
   "dependencies": {
-    "@campbell/app": "^1.0.0-beta.1",
+    "@campbell/app": "^1.0.0-beta.2",
     "@campbell/server": "^1.0.0-beta.0",
     "winston": "^3.3.3"
   },
